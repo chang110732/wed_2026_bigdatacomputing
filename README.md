@@ -1,2 +1,3 @@
 # wed_2026_bigdatacomputing
 Data science : Data Anaysis &amp; machine learning model
+   Data Analysis : Numpy, matplotlib, ...
